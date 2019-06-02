@@ -602,7 +602,8 @@ section#contact {
   background-color: #212529;
   background-image: url("../img/mapp.PNG");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center center;
+  background-size: cover;
 }
 
 section#contact .section-heading {
