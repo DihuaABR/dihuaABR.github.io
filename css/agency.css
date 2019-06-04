@@ -11,7 +11,10 @@ body {
 h3,h4{
 	font-family: 'Noto Sans TC', sans-serif;
 }
-  
+
+.text-muted {
+  font-family: 'Noto Sans TC', sans-serif;
+}
 
 p {
   line-height: 1.75;
