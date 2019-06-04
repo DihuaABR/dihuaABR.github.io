@@ -11,12 +11,20 @@ body {
 h3,h4{
 	font-family: 'Noto Sans TC', sans-serif;
 }
-  
+
+.text-muted {
+  font-family: 'Noto Sans TC', sans-serif !important;
+}
+
+.item-intro text-muted{
+	font-family: 'Noto Sans TC', sans-serif !important;
+}
 
 p {
   line-height: 1.75;
 }
 
+	
 a {
   color: #fed136;
 }
@@ -34,8 +42,8 @@ h2,
 h3,
 h4,
 h5,
-h6 {
- font-family: 'Noto Sans TC', sans-serif;
+h6, .section-subheading{
+ font-family: 'Noto Sans TC', sans-serif !important;
  text-transform: none;
 }
 
