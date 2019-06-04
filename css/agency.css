@@ -13,7 +13,7 @@ h3,h4{
 }
 
 .text-muted {
-  font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'Noto Sans TC', sans-serif !important;
 }
 
 p {
