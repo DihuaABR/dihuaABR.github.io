@@ -34,7 +34,7 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6, .section-subheading text-muted{
  font-family: 'Noto Sans TC', sans-serif !important;
  text-transform: none;
 }
